@@ -1,3 +1,1 @@
-import closures from './src/closures';
-
-closures();
+import * as AppIndex from './src';
